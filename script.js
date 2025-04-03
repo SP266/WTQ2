@@ -5,7 +5,7 @@ const menuData = {
     ],
     "Appetizer": [
         { name: "Spicy Chicken Wings with Blue Cheese Dip", price: "RM 18.00", image: "wings.jpg" },
-        { name: "Bruschetta with Fresh Tomatoes and Basil", price: "RM 15.00", images/bruschetta.jpg" }
+        { name: "Bruschetta with Fresh Tomatoes and Basil", price: "RM 15.00", image："bruschetta.jpg" }
     ],
     "Beverages": [
         { name: "Freshly Squeezed Orange Juice", price: "RM 8.00", image: "orange-juice.jpg" },
